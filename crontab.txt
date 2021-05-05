@@ -1,0 +1,2 @@
+*/15 * * * * /scripts/crons/DS01_checker.sh > /scripts/log/DS01_checker_cron.log
+5,20,35,50 * * * * /scripts/crons/DS01_backup.sh > /scripts/log/DS01_backup_cron.log

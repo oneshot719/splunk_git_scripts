@@ -1,0 +1,13 @@
+
+#--------------------------------#
+Date: 05-05-2021_12:45:01
+Starting Script..
+
+
+Checking to make sure paths exist and if not will re-clone everything...
+
+Confirmed that there has already been a git clone and we can continue checking for updates...
+Checking base repository for new commits...
+Wed May  5 12:45:02 UTC 2021 - up to date, nothing to do
+Done with DS01 base...
+Script Done
